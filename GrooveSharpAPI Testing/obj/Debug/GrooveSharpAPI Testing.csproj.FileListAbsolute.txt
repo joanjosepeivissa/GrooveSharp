@@ -1,0 +1,33 @@
+H:\GrooveSharp API\GrooveSharpAPI Testing\bin\Debug\GrooveSharpAPI Testing.dll
+H:\GrooveSharp API\GrooveSharpAPI Testing\bin\Debug\GrooveSharpAPI Testing.pdb
+H:\GrooveSharp API\GrooveSharpAPI Testing\bin\Debug\GrooveSharpAPI.dll
+H:\GrooveSharp API\GrooveSharpAPI Testing\bin\Debug\Newtonsoft.Json.dll
+H:\GrooveSharp API\GrooveSharpAPI Testing\bin\Debug\GrooveSharpAPI.pdb
+H:\GrooveSharp API\GrooveSharpAPI Testing\bin\Debug\Newtonsoft.Json.xml
+H:\GrooveSharp API\GrooveSharpAPI Testing\obj\Debug\GrooveSharpAPI Testing.csprojResolveAssemblyReference.cache
+H:\GrooveSharp API\GrooveSharpAPI Testing\obj\Debug\GrooveSharpAPI Testing.dll
+H:\GrooveSharp API\GrooveSharpAPI Testing\obj\Debug\GrooveSharpAPI Testing.pdb
+G:\GrooveSharp API\GrooveSharpAPI Testing\bin\Debug\GrooveSharpAPI Testing.dll
+G:\GrooveSharp API\GrooveSharpAPI Testing\bin\Debug\GrooveSharpAPI Testing.pdb
+G:\GrooveSharp API\GrooveSharpAPI Testing\bin\Debug\GrooveSharpAPI.Contract.dll
+G:\GrooveSharp API\GrooveSharpAPI Testing\bin\Debug\GrooveSharpAPI.dll
+G:\GrooveSharp API\GrooveSharpAPI Testing\bin\Debug\Newtonsoft.Json.dll
+G:\GrooveSharp API\GrooveSharpAPI Testing\bin\Debug\GrooveSharpAPI.Contract.pdb
+G:\GrooveSharp API\GrooveSharpAPI Testing\bin\Debug\GrooveSharpAPI.pdb
+G:\GrooveSharp API\GrooveSharpAPI Testing\bin\Debug\Newtonsoft.Json.xml
+G:\GrooveSharp API\GrooveSharpAPI Testing\obj\Debug\GrooveSharpAPI Testing.csprojResolveAssemblyReference.cache
+G:\GrooveSharp API\GrooveSharpAPI Testing\obj\Debug\GrooveSharpAPI Testing.dll
+G:\GrooveSharp API\GrooveSharpAPI Testing\obj\Debug\GrooveSharpAPI Testing.pdb
+E:\GrooveSharp API\GrooveSharpAPI Testing\bin\Debug\GrooveSharpAPI Testing.dll
+E:\GrooveSharp API\GrooveSharpAPI Testing\bin\Debug\GrooveSharpAPI Testing.pdb
+E:\GrooveSharp API\GrooveSharpAPI Testing\bin\Debug\GrooveSharpAPI.Contract.dll
+E:\GrooveSharp API\GrooveSharpAPI Testing\bin\Debug\GrooveSharpAPI.dll
+E:\GrooveSharp API\GrooveSharpAPI Testing\bin\Debug\Newtonsoft.Json.dll
+E:\GrooveSharp API\GrooveSharpAPI Testing\bin\Debug\GrooveSharpAPI.Contract.pdb
+E:\GrooveSharp API\GrooveSharpAPI Testing\bin\Debug\GrooveSharpAPI.pdb
+E:\GrooveSharp API\GrooveSharpAPI Testing\bin\Debug\Newtonsoft.Json.xml
+E:\GrooveSharp API\GrooveSharpAPI Testing\obj\Debug\GrooveSharpAPI Testing.csprojResolveAssemblyReference.cache
+E:\GrooveSharp API\GrooveSharpAPI Testing\obj\Debug\GrooveSharpAPI Testing.dll
+E:\GrooveSharp API\GrooveSharpAPI Testing\obj\Debug\GrooveSharpAPI Testing.pdb
+H:\GrooveSharp API\GrooveSharpAPI Testing\bin\Debug\GrooveSharpAPI.Contract.dll
+H:\GrooveSharp API\GrooveSharpAPI Testing\bin\Debug\GrooveSharpAPI.Contract.pdb

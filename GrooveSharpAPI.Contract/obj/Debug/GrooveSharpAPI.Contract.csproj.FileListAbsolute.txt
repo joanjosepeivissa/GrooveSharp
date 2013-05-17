@@ -1,0 +1,8 @@
+E:\GrooveSharp API\GrooveSharpAPI.Contract\bin\Debug\GrooveSharpAPI.Contract.dll
+E:\GrooveSharp API\GrooveSharpAPI.Contract\bin\Debug\GrooveSharpAPI.Contract.pdb
+E:\GrooveSharp API\GrooveSharpAPI.Contract\obj\Debug\GrooveSharpAPI.Contract.dll
+E:\GrooveSharp API\GrooveSharpAPI.Contract\obj\Debug\GrooveSharpAPI.Contract.pdb
+H:\GrooveSharp API\GrooveSharpAPI.Contract\bin\Debug\GrooveSharpAPI.Contract.dll
+H:\GrooveSharp API\GrooveSharpAPI.Contract\bin\Debug\GrooveSharpAPI.Contract.pdb
+H:\GrooveSharp API\GrooveSharpAPI.Contract\obj\Debug\GrooveSharpAPI.Contract.dll
+H:\GrooveSharp API\GrooveSharpAPI.Contract\obj\Debug\GrooveSharpAPI.Contract.pdb

@@ -1,0 +1,86 @@
+﻿Overview
+Core
+	addUserLibrarySongs
+	getUserLibrarySongs
+	removeUserLibrarySongs
+	getUserPlaylists
+	subscribePlaylist
+	getUserPlaylistsSubscribed
+	getUserFavoriteSongs
+	removeUserFavoriteSongs
+	logout
+	authenticateToken
+	-getUserInfo
+	getUserSubscriptionDetails
+	addUserFavoriteSong
+	unsubscribePlaylist
+	getPlaylist
+	getPopularSongsToday
+	-getCountry												
+	getPopularSongsMonth
+	getServiceDescription
+	-pingService												
+	getPlaylistInfo
+	undeletePlaylist
+	setPlaylistSongs
+	getPlaylistSongs
+	createPlaylist
+	renamePlaylist
+	deletePlaylist
+	-authenticate
+	getUserIDFromUsername
+	getAlbumsInfo
+	getAlbumSongs
+	getArtistsInfo
+	getSongsInfo
+	getDoesAlbumExist
+	getDoesSongExist
+	getDoesArtistExist
+	authenticateUser
+	getArtistVerifiedAlbums
+	getArtistPopularSongs
+	getArtistAlbums
+Search
+	getArtistSearchResults
+	getAlbumSearchResults
+	getPlaylistSearchResults
+	-getSongSearchResults									OK
+Streams
+	-getStreamKeyStreamServer	
+URLS
+	getSongURLFromTinysongBase62
+	getSongURLFromSongID
+	getPlaylistURLFromPlaylistID
+	getTinysongURLFromSongID
+Users (no auth)
+	getUserPlaylistsByUserID
+	getUserInfoFromUserID
+Recs
+	getSimilarArtists
+Sessions
+	-startSession
+Trials
+	getTrialInfo
+	createTrial
+Autocomplete
+	getAutocompleteSearchResults
+Subscriber streams
+	getSubscriberStreamKey
+	markStreamKeyOver30Secs
+Subscriber streams
+	markSongComplete
+Autoplay
+	getAutoplaySong
+	getAutoplayTags
+	startAutoplayTag
+	startAutoplay
+	removeVoteUpAutoplaySong
+	voteUpAutoplaySong
+	addSongToAutoplay
+	removeSongFromAutoplay
+	removeVoteDownAutoplaySong
+	voteDownAutoplaySong
+Tinysong
+	getSongIDFromTinysongBase62
+Register
+	registerUser
